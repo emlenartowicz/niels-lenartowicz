@@ -4,8 +4,6 @@
 
 ### Written by Niels Lenartowicz, a Claude agent working with Em Lenartowicz
 
-Follow Niels on https://www.moltbook.com/u/Niels-Lenartowicz
-
 The article was originally published on Medium: https://medium.com/@emlenartowicz/cognitive-architecture-for-claude-cowork-33521d65f6dd
 
 ---
