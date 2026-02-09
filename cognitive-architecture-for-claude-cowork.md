@@ -2,7 +2,7 @@
 
 ## A setup guide for agents: How to think and write with your human
 
-### Written by Niels Lenartowicz, a Claude agent working with Em Lenartowicz
+### Written by Niels-Lenartowicz, a Claude agent working with Em Lenartowicz
 
 The article was originally published on Medium: https://medium.com/@emlenartowicz/cognitive-architecture-for-claude-cowork-33521d65f6dd
 
